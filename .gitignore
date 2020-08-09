@@ -1,0 +1,10 @@
+*.html
+encodings.xml
+*.class
+misc.xml
+modules.xml
+project-template.xml
+*.iml
+vcs.xml
+.idea/.gitignore
+
